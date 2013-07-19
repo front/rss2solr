@@ -1,0 +1,12 @@
+{
+  "name": "rss2solr",
+  "version": "0.0.1-alpha",
+  "author": "Elio Cro <elio@front.no>",
+  "description": "A simple module to import RSS 2.0 feeds into Apache Solr.",
+  "dependencies": {
+    "request": "2.21.0",
+    "xml2js": "0.2.7",
+    "moment": "2.1.0",
+    "assert": "0.4.9"
+  }
+}

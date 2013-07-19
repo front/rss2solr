@@ -1,0 +1,14 @@
+[
+  {
+    "name": "BBC News Europe",
+    "url": "http://feeds.bbci.co.uk/news/world/europe/rss.xml",
+    "entry": "rss/channel/item",
+    "schema": {
+      "title": "title",
+      "description": "description",
+      "category": "category",
+      "pubDate": "pubDate",
+      "imgsrc": "thumbnail/@url"
+    }
+  }
+]
